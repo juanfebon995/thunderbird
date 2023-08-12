@@ -1,0 +1,6 @@
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dto\bin\Debug\Dto.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dto\bin\Debug\Dto.pdb
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dto\obj\Debug\Dto.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dto\obj\Debug\Dto.pdb

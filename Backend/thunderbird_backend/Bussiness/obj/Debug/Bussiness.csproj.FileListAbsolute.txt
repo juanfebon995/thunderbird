@@ -1,0 +1,13 @@
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Bussiness.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Bussiness.pdb
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Dal.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Dto.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Dapper.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Dal.pdb
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Dto.pdb
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\bin\Debug\Dapper.xml
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\obj\Debug\Bussiness.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Bussiness\obj\Debug\Bussiness.pdb

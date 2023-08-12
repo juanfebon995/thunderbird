@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thunderbird_backend", "thunderbird_backend\thunderbird_backend.csproj", "{8151143E-7120-4FAB-B7CE-A8C01DEA1076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussiness", "Bussiness", "{BE7A5AF7-71B3-4FC9-B33D-768A4BBBF717}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{C2B9E358-D870-452E-8584-DB5D79033077}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{6D917FE1-3129-4743-9FAE-B3AB95C0B16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness", "Bussiness\Bussiness.csproj", "{78E1C42D-6ED0-4A10-9B61-D1256A6EAAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{8B6984FE-5A16-42AC-8848-84848E3D9F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{F10AAE10-48D5-416B-96CA-AA94BB077491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8151143E-7120-4FAB-B7CE-A8C01DEA1076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8151143E-7120-4FAB-B7CE-A8C01DEA1076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8151143E-7120-4FAB-B7CE-A8C01DEA1076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8151143E-7120-4FAB-B7CE-A8C01DEA1076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E1C42D-6ED0-4A10-9B61-D1256A6EAAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E1C42D-6ED0-4A10-9B61-D1256A6EAAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E1C42D-6ED0-4A10-9B61-D1256A6EAAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E1C42D-6ED0-4A10-9B61-D1256A6EAAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B6984FE-5A16-42AC-8848-84848E3D9F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6984FE-5A16-42AC-8848-84848E3D9F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6984FE-5A16-42AC-8848-84848E3D9F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6984FE-5A16-42AC-8848-84848E3D9F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10AAE10-48D5-416B-96CA-AA94BB077491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10AAE10-48D5-416B-96CA-AA94BB077491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10AAE10-48D5-416B-96CA-AA94BB077491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10AAE10-48D5-416B-96CA-AA94BB077491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8151143E-7120-4FAB-B7CE-A8C01DEA1076} = {6D917FE1-3129-4743-9FAE-B3AB95C0B16E}
+		{78E1C42D-6ED0-4A10-9B61-D1256A6EAAFF} = {BE7A5AF7-71B3-4FC9-B33D-768A4BBBF717}
+		{8B6984FE-5A16-42AC-8848-84848E3D9F4E} = {BE7A5AF7-71B3-4FC9-B33D-768A4BBBF717}
+		{F10AAE10-48D5-416B-96CA-AA94BB077491} = {C2B9E358-D870-452E-8584-DB5D79033077}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A60B332-7721-4298-8BF5-4D036DF6A7EB}
+	EndGlobalSection
+EndGlobal

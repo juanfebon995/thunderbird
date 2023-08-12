@@ -1,0 +1,11 @@
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\bin\Debug\Dal.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\bin\Debug\Dal.pdb
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\bin\Debug\Dapper.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\bin\Debug\Dto.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\bin\Debug\Dto.pdb
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\bin\Debug\Dapper.xml
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\obj\Debug\Dal.csproj.AssemblyReference.cache
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\obj\Debug\Dal.csproj.CopyComplete
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\obj\Debug\Dal.dll
+D:\El Palacio de la Fotocopiadora\Backend\thunderbird_backend\Dal\obj\Debug\Dal.pdb
